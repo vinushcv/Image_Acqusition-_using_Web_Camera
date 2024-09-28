@@ -33,8 +33,8 @@ Divide the frame into halves and assign the smaller frame and Rotate the frame u
 
 ## Program :
 
-### Developed By : SAILESHKUMAR A
-### Register No : 212222230126
+### Developed By : VINUSH.CV
+### Register No : 212222230176
 
 ## i) Write the frame as JPG file 
 
